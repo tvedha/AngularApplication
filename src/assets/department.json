@@ -1,0 +1,20 @@
+{
+    "data":[
+        {
+            "departmentID":1,
+            "departmentName":"Software"
+        },
+        {
+            "departmentID":2,
+            "departmentName":"Testing"
+        },
+        {
+            "departmentID":3,
+            "departmentName":"Network/Admin"
+        },
+        {
+            "departmentID":4,
+            "departmentName":"BA"
+        }
+    ]
+}
